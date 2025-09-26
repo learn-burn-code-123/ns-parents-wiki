@@ -16,7 +16,7 @@ export default function Home(){
     <div className="list">
       <section className="card">
         <h1 className="section-title">Welcome to the NS Parents Wiki</h1>
-        <p>A simple, community-maintained hub for childcare, family activities, and essentials near Network School.</p>
+        <p>A community-maintained wiki for NS parent childcare, family activities, and other childcare essentials near Network School.</p>
       </section>
       <section className="card">
         <h2 className="section-title">Browse</h2>
