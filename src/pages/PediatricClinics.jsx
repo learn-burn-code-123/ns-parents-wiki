@@ -63,6 +63,27 @@ export default function PediatricClinics(){
           </iframe>
         </div>
       </section>
+      <section className="card">
+        <h2 className="section-title">Klinik 1 Hope Forest City</h2>
+        <p><strong>Location:</strong> Close to the Network School co-working space.</p>
+        <p><strong>Address:</strong> Starviewbay b2, forest city, 79250 Gelang Patah, Johor Darul Ta'zim, Malaysia</p>
+        <p><strong>Services:</strong> Immunisations, blood & urine tests, ECG, antenatal & postnatal check-ups, general wound dressing, minor surgeries, medical check-ups, foreign worker health screening.</p>
+        <p><strong>Doctors:</strong> Dr. Sareswathi R. Arunasalam and Dr. Mathan Sukalinggam</p>
+        <p><strong>Hours:</strong> Open Daily (Monday to Sunday), 8am – 10pm</p>
+        <p><strong>Whatsapp / Tel Hotline:</strong> 012-7870298</p>
+        <div style={{marginTop: '1rem'}}>
+          <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.4!2d103.6!3d1.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xabcb798e768c3d4f!2sKlinik%201%20Hope%20Forest%20City!5e0!3m2!1sen!2smy!4v1234567890"
+            width="100%" 
+            height="300" 
+            style={{border: '2px solid #000', borderRadius: '0.5rem'}}
+            allowFullScreen="" 
+            loading="lazy" 
+            referrerPolicy="no-referrer-when-downgrade"
+            title="Klinik 1 Hope Forest City Location">
+          </iframe>
+        </div>
+      </section>
     </article>
   )
 }
